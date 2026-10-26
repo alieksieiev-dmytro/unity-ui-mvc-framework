@@ -1,0 +1,15 @@
+{
+  "name": "com.alieksieiev.ui",
+  "version": "0.1.0",
+  "displayName": "UI MVC Framework",
+  "description": "Persistent, scoped MVC screens and HUDs for Unity with Zenject.",
+  "unity": "6000.0",
+  "unityRelease": "58f2",
+  "author": {
+    "name": "Dmytro Alieksieiev"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.inputsystem": "1.14.2"
+  }
+}
